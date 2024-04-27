@@ -1,6 +1,6 @@
 # Cenipa_analisa_ocorrencias
 
-![Imagem de Aviao](https://github.com/jairobernardesjunior/Cenipa_limpa_trata_analisa/blob/main/aviao2.jpg)
+![Imagem de Aviao](https://github.com/jairobernardesjunior/Cenipa_analisa_ocorrencias/blob/main/aviao2.jpg)
  
 ## Faz análise dos dados de ocorrências de acidentes aeronáuticos
 
